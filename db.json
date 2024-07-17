@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "product_name": "vivo Y51 (2020, September)",
+      "product_details": "Nondisplaced unspecified condyle fracture of lower end of right femur, subsequent encounter for open fracture type I or II with nonunion",
+      "price": "$0.00"
+    },
+    {
+      "id": "2",
+      "product_name": "Unnecto Drone X",
+      "product_details": "Hutchinson's teeth",
+      "price": "$999.19"
+    },
+    {
+      "id": "3",
+      "product_name": "HTC One (M8)",
+      "product_details": "Corrosion of first degree of unspecified site of unspecified lower limb, except ankle and foot, sequela",
+      "price": "$7.01"
+    },
+    {
+      "id": "10",
+      "product_name": "verykool T7440 Kolorpad II",
+      "product_details": "Unspecified superficial injury of unspecified part of head, subsequent encounter",
+      "price": "$1.14"
+    }
+  ]
+}
